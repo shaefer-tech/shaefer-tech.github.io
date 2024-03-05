@@ -66812,7 +66812,7 @@ while(true)switch(s){case 0:p=q.a.c
 s=2
 return A.e(p.G(0),$async$$0)
 case 2:s=3
-return A.e(p.Z("assets/lesson1_gun/sons/to.mp3"),$async$$0)
+return A.e(p.Z("assets/lesson1_gun/sons/o.mp3"),$async$$0)
 case 3:s=4
 return A.e(p.N(0),$async$$0)
 case 4:return A.p(null,r)}})
@@ -67402,7 +67402,7 @@ while(true)switch(s){case 0:p=q.a.c
 s=2
 return A.e(p.G(0),$async$$0)
 case 2:s=3
-return A.e(p.Z("assets/lesson1_gun/sons/to.mp3"),$async$$0)
+return A.e(p.Z("assets/lesson1_gun/sons/o.mp3"),$async$$0)
 case 3:s=4
 return A.e(p.N(0),$async$$0)
 case 4:return A.p(null,r)}})
