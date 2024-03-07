@@ -67049,7 +67049,7 @@ while(true)switch(s){case 0:p=q.a.c
 s=2
 return A.e(p.G(0),$async$$0)
 case 2:s=3
-return A.e(p.Z("assets/lesson1_gun/sons/non.mp3"),$async$$0)
+return A.e(p.Z("assets/lesson1_gun/sons/or.mp3"),$async$$0)
 case 3:s=4
 return A.e(p.N(0),$async$$0)
 case 4:return A.p(null,r)}})
@@ -67218,7 +67218,7 @@ k=A.i(204,244,67,54)
 i=A.i(0,76,175,80)
 d=A.i(204,33,150,243)
 k=A.G(a2,A.by(A.a([n,A.G(a2,A.cs(a2,A.a([new A.aI(h),new A.aI(A.a([f,e,A.G(a2,A.a7(B.k,!0,a2,A.a8(!1,!0,A.a6(A.a_(A.G(a2,A.aM(a2,a2,B.y,a2,a2,!0,a2,B.fc,B.v,a2,a2,1,B.w),a2,a2,a2,a2,a2,a2,a2),a2,a2),g,m),a2,!0,i,a2,j,d,a2,a2,a2,a2,a2,new A.ZA(a1),a2,k,a2,a2),B.j,B.q,0,a2,a2,a2,a2,a2,B.n),a2,a2,a2,a2,a2,B.V,m)],a3))],s)),a2,a2,a2,q,a2,B.e7,p)],a3),B.h,B.an,B.i),a2,a2,a2,a2,a2,B.h2,a2)
-d=A.G(a2,A.cs(a2,A.a([new A.aI(A.a([A.a9(A.a([A.Cu(A.G(a2,A.v8("assets/lesson1_gun/images/1_2.png",a2),a2,a2,a2,q,a2,a2,a2),0,a2)],a3),B.h,B.bo,B.i)],a3))],s)),a2,a2,a2,q,a2,new A.ab(8,0,0,0),o)
+d=A.G(a2,A.cs(a2,A.a([new A.aI(A.a([A.a9(A.a([A.Cu(A.G(a2,A.v8("assets/lesson1_gun/images/1-2.png",a2),a2,a2,a2,q,a2,a2,a2),0,a2)],a3),B.h,B.bo,B.i)],a3))],s)),a2,a2,a2,q,a2,new A.ab(8,0,0,0),o)
 j=A.i(l,255,235,59)
 i=A.i(204,244,67,54)
 e=A.i(0,76,175,80)
